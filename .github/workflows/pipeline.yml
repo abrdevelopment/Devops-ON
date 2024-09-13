@@ -194,3 +194,5 @@ jobs:
         shell: bash
         run: |
           echo "Deploy PROD"
+  
+  # if you wanted to see smoketest or testefuncionais, change the branch 
